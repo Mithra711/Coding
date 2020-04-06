@@ -38,6 +38,11 @@ public class test4 {
 		{
 			System.out.println("twitter");
 		}
+	@Test (groups="twitter")
+	 void twitter2()
+		{
+			System.out.println("twitter");
+		}
 
 		
 }
